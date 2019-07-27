@@ -1,0 +1,30 @@
+img {
+    width: 40%;
+    height:40%;
+}
+html{
+    background-color: blue;
+}
+body{
+   
+    background-color: rebeccapurple;
+    padding: 20px;
+    border: 10px solid black;
+    margin: 20px auto;
+    width: 600px;
+} 
+h3{
+    font-size: 60px;
+    text-align: center;
+    color: blue;
+    text-shadow: 5px 5px 3px black;
+}
+p,li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+img{
+    display: block;
+    margin: 0 auto
+}
